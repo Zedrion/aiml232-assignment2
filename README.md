@@ -1,6 +1,6 @@
 # AIML232 - Assignment 2
 
-A collection of machine learning experiments completed as a part of **AIML232** (2025) course projects.
+A collection of machine learning experiments completed as a part of **AIML232 - Techniques in Artificial Intelligence** (2025) course projects.
 
 - A2.2: Explore Central Limit Theorem with a given non-normal distribution.
 - A2.3: Explore a made-up multivariate Gaussian distribution -- correlations between its variables, Mahalanobis distance of data points, and outlier detection.
